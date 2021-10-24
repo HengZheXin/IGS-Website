@@ -56,7 +56,7 @@
 
     <div class="hero">
         <div class="btn-box">
-        <button id="btn1" onclick="location = 'index.php'"><i class="fa fa-calendar-plus-o"></i>Our Event</button>
+        <button id="btn1"><i class="fa fa-calendar-plus-o"></i>Our Event</button>
         </div>
     </div>
         
